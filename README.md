@@ -40,6 +40,11 @@ Covert JPG to PNG
 - Python 3
 
 ## Usage
+Run on your terminal.
+Then first argument is the directory with photos in JPG format, and the second argument is the name that you want for the new directory where the new photos will be saved.
+```sh
+python3 JPGtoPNGconverter.py pokedex/ new/
+```
 
 ![Image-Converter](https://github.com/Dakarakoso/Image-Converter/blob/main/usage.gif)
 
